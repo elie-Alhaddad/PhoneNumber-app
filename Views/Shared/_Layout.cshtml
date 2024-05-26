@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+
+
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Css/style")
+
+
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/angular")
+
+    @Scripts.Render("~/bundles/app-scriptClient")
+
+    @Scripts.Render("~/bundles/directive")
+
+    @Scripts.Render("~/bundles/ui-bootstrap")
+    @Scripts.Render("~/bundles/app-scriptDevice")
+    @* @Scripts.Render("~/bundles/app-Selector")*@
+
+    @Scripts.Render("~/bundles/app-scriptPhone")
+    @Scripts.Render("~/bundles/app-scriptPhoneNumberReservations")
+    @Scripts.Render("~/bundles/app-scriptClientReport")
+    @Scripts.Render("~/bundles/app-scriptPhoneNumberReportReport")
+    @Scripts.Render(" ~/bundles/app-login")
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+        <div class="container">
+            @Html.ActionLink("Phone Number  ", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+ 
+
+                    @if (Request.Path != "/")
+                    {
+                        <li>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("Device", "Device", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("Client", "Client", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("Phone", "Phone", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("PhoneNumberReservation", "PhoneNumberReservation", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("ReportClient", "ReportClient", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li>@Html.ActionLink("PhoneNumberReport", "PhoneNumberReport", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <div ng-app="loginApp" ng-controller="loginController">
+
+                </div>
+                <!--  <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p> -->
+        </footer>
+    </div>
+    
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

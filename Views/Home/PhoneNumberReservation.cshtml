@@ -1,0 +1,26 @@
+﻿<body>
+    <div ng-app="PhoneNumberReservations" ng-controller="PhoneNumberReservationController">
+        <h1>Phone Number Reservation Page</h1>
+
+        <div class="form-group1">
+            <div class="form-ligne">
+                <label for="clientFilter">Client Filter:</label>
+                <client-selector selected-client="selectedClient" get-data="getData()"></client-selector>
+            </div>
+
+            <div class="form-ligne1">
+                <label for="phoneNumberFilter">PhoneNumber Filter:</label>
+                <phone-number-selector selected-phone-number="selectedPhoneNumber" get-data="getData()"></phone-number-selector>
+            </div>
+
+            <div class="form-ligne">
+                <button class="btnt" ng-click="performSearch()">Search</button>
+            </div>
+        </div>
+     
+         <div ng-include="'../app-angular/TablePhoneNumberReservation.html'"></div>
+  
+    </div>
+
+  
+</body>

@@ -1,0 +1,544 @@
+C:\Users\User\source\repos\angulaJS\bin\angulaJS.dll.config
+C:\Users\User\source\repos\angulaJS\bin\angulaJS.dll
+C:\Users\User\source\repos\angulaJS\bin\angulaJS.pdb
+C:\Users\User\source\repos\angulaJS\bin\roslyn\csc.exe
+C:\Users\User\source\repos\angulaJS\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\angulaJS\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\angulaJS\bin\roslyn\csi.exe
+C:\Users\User\source\repos\angulaJS\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\angulaJS\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\angulaJS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Net.Http.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\angulaJS\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\angulaJS\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\angulaJS\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\angulaJS\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\angulaJS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\angulaJS\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\angulaJS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\angulaJS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\angulaJS\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\angulaJS\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Http.dll
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\angulaJS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\angulaJS\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\angulaJS\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\angulaJS\bin\WebGrease.dll
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\angulaJS\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\angulaJS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\angulaJS\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\angulaJS\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\angulaJS\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\angulaJS\bin\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Http.xml
+C:\Users\User\source\repos\angulaJS\bin\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\angulaJS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\angulaJS\obj\Debug\angulaJS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\angulaJS\obj\Debug\angulaJS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\angulaJS\obj\Debug\angulaJS.csproj.CopyComplete
+C:\Users\User\source\repos\angulaJS\obj\Debug\angulaJS.dll
+C:\Users\User\source\repos\angulaJS\obj\Debug\angulaJS.pdb
+C:\Users\User\source\repos\angulaJSssssss\bin\angulaJS.dll.config
+C:\Users\User\source\repos\angulaJSssssss\bin\angulaJS.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\angulaJS.pdb
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\csc.exe
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\csi.exe
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Net.Http.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\angulaJSssssss\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\angulaJSssssss\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Http.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\WebGrease.dll
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\angulaJSssssss\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\angulaJSssssss\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Http.xml
+C:\Users\User\source\repos\angulaJSssssss\bin\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\angulaJSssssss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\angulaJSssssss\obj\Debug\angulaJS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\angulaJSssssss\obj\Debug\angulaJS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\angulaJSssssss\obj\Debug\angulaJS.csproj.CopyComplete
+C:\Users\User\source\repos\angulaJSssssss\obj\Debug\angulaJS.dll
+C:\Users\User\source\repos\angulaJSssssss\obj\Debug\angulaJS.pdb
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\angulaJS.dll.config
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\angulaJS.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\angulaJS.pdb
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\csc.exe
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\csi.exe
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Net.Http.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Http.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\WebGrease.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Http.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\obj\Debug\angulaJS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\obj\Debug\angulaJS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\obj\Debug\angulaJS.csproj.CopyComplete
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\obj\Debug\angulaJS.dll
+C:\Users\User\source\repos\angulaJSssssss -lastupdate\obj\Debug\angulaJS.pdb
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\angulaJS.dll.config
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\angulaJS.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\angulaJS.pdb
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\csc.exe
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\csi.exe
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Http.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\WebGrease.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Http.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\obj\Debug\angulaJS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\obj\Debug\angulaJS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\obj\Debug\angulaJS.csproj.CopyComplete
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\obj\Debug\angulaJS.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\obj\Debug\angulaJS.pdb
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\BCrypt.Net-Next.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Buffers.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Memory.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\BCrypt.Net-Next.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Buffers.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Memory.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\angulaJS.dll.config
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\angulaJS.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\angulaJS.pdb
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\csc.exe
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\csi.exe
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\BCrypt.Net-Next.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Buffers.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Memory.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Http.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\WebGrease.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\BCrypt.Net-Next.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Buffers.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Memory.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Http.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\obj\Debug\angulaJS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\obj\Debug\angulaJS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\obj\Debug\angulaJS.csproj.CopyComplete
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\obj\Debug\angulaJS.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\obj\Debug\angulaJS.pdb
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\Dapper.dll
+C:\Users\User\Desktop\internshipAngularjs\angulaJSssssss -lastupdate - Copy\bin\Dapper.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\angulaJS.dll.config
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\angulaJS.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\angulaJS.pdb
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\csc.exe
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\csi.exe
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\BCrypt.Net-Next.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\Dapper.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Buffers.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Memory.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Http.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\WebGrease.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\BCrypt.Net-Next.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\Dapper.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Buffers.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Memory.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Http.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\obj\Debug\angulaJS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\obj\Debug\angulaJS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\obj\Debug\angulaJS.csproj.CopyComplete
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\obj\Debug\angulaJS.dll
+C:\Users\User\Desktop\MVCProjectIntern\MVCProject\obj\Debug\angulaJS.pdb

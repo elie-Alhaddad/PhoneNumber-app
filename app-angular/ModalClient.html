@@ -1,0 +1,24 @@
+﻿<div class="modaldes">
+    <div class="modal-header">
+        <h3 class="modal-title">{{ client.Id ? 'Edit Client' : 'Add Client' }}</h3>
+    </div>
+    <div class="modal-body">
+        <form name="clientForm" novalidate>
+            <div class="form-group2">
+                <label for="clientName">Name:</label>
+                <input type="text" id="clientName" class="typeName" ng-model="client.Name" required />
+            </div>
+            <client-type-selector selected-type="client.Type" get-data="getClientTypeData"></client-type-selector>
+
+            <div class="form-group2" ng-show="client.Type === 'Individual'">
+                <label for="clientBirthDate">Birth Date:</label>
+                <input type="date" id="clientBirthDate" class="form-control" ng-model="client.BirthDate" />
+            </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-primary" ng-disabled="clientForm.$invalid" ng-click="saveClient()">Save</button>
+        <button class="btn btn-default" ng-click="cancelModal()">Cancel</button>
+    </div>
+    <div ng-show="errorMessage" class="alert alert-danger">{{ errorMessage }}</div> 
+</div>

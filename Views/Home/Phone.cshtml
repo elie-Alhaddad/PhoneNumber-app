@@ -1,0 +1,35 @@
+﻿
+<body>
+    <div ng-app="PhoneScript" ng-controller="PhoneNumberController">
+        <h1>Phone Number Page</h1>
+
+        <div class="form-group1">
+
+            <div class="form-ligne">
+                <label for="numberFilter">Number Filter:</label>
+                <input type="number" class="typeName" id="numberFilter" ng-model="numberFilter" required>
+            </div>
+
+            <div class="form-ligne1">
+                <label for="deviceFilter">Device Filter:</label>
+                <device-selector selected-device="selectedDevice" get-data="getData()"></device-selector>
+            </div>
+
+            <div class="form-ligne">
+                <button class="btnt" ng-click="performSearch()">Search</button>
+                <button class="btnt" ng-click="openModal()">Add Number</button>
+            </div>
+        </div>
+
+        <div class="success-message" ng-show="showMessage">{{ displayMessage }}</div>
+
+        <div ng-include="'../app-angular/TablePhone.html'"></div>
+
+
+
+
+
+
+    </div>
+</body>
+

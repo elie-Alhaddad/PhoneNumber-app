@@ -1,0 +1,20 @@
+﻿<table class="card-table">
+
+            <thead>
+                <tr class="trtbl">
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+
+            <tbody >
+                <tr class="trtbl1" ng-repeat="device in filteredDevices">
+                    <td>{{ device.Id }}</td>
+                    <td>{{ device.Name }}</td>
+                    <td>
+                        <button class="btnt" ng-click="openModal(device)">Edit</button>
+                    </td>
+                </tr>
+            </tbody> 
+ </table>

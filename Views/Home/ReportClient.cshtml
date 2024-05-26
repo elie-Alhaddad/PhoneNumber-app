@@ -1,0 +1,32 @@
+﻿<body>
+    <div ng-app="ClientReport" ng-controller="ReportPageController">
+        <h2>Number of Clients per Type</h2>
+        <div class="container">
+            <!-- Combined filter -->
+            <div class="form-group1">
+
+                <client-type-selector selected-type="selectedType" get-data="getData"></client-type-selector>
+                <div class="form-ligne">
+                    <button class="btnt" ng-click="search()">Apply Filter</button>
+
+                </div>
+            </div>
+            <!-- Client table -->
+            <table class="card-table">
+                <thead>
+                    <tr class="trtbl">
+                        <th>Type</th>
+                        <th>No of Clients</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="trtbl1" ng-repeat="client in clients">
+                        <td>{{ client.TypeName }}</td>
+                        <td>{{ client.NumberOfClients }}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</body>

@@ -1,0 +1,4 @@
+﻿<!-- clientSelectorTemplate.html -->
+<select class="form-control" id="clientSelect" ng-model="selectedClient" ng-options="client.Name for client in clients" ng-change="handleClientChange()">
+    <option value="">All Clients</option>
+</select>

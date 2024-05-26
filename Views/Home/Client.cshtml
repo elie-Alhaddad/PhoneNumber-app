@@ -1,0 +1,24 @@
+﻿<body>
+    <div ng-app="ClientScript" ng-controller="ClientController">
+        <h1>Client</h1>
+        <div class="container">
+            <!-- Combined filter -->
+            <div class="form-group1">
+                <div class="form-ligne">
+                    <label for="nameFilter">Filter:</label>
+                    <input type="text" id="nameFilter" class="typeName" ng-model="nameFilter" />
+                </div>
+                <client-type-selector selected-type="selectedType" get-data="getClientTypeData"></client-type-selector>
+                <div class="form-ligne">
+                    <button class="btnt" ng-click="search()">Apply Filter</button>
+                    <button class="btnt" ng-click="openModal(null)">Add Client</button>
+                </div>
+            </div>
+            
+
+            <!-- Client table -->
+            <div ng-include="'../app-angular/TableClient.html'"></div>
+
+        </div>
+    </div>
+</body>

@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+
+</head>
+<body>
+    <div ng-app="loginApp" ng-controller="loginController">
+        <div class="form-group1">
+            <h1>Login</h1>
+            <form ng-submit="submitLogin()">
+
+                <div>
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" ng-model="loginModel.username">
+                </div>
+                <div>
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" ng-model="loginModel.password">
+                </div>
+                <button type="submit">Login</button>
+            </form>
+            <div ng-show="loginStatus">{{ loginStatus }}</div>
+        </div>
+        </div>
+
+
+</body>
+</html>

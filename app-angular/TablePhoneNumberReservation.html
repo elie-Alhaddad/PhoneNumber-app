@@ -1,0 +1,20 @@
+﻿<table class="card-table">
+    <thead>
+        <tr class="trtbl">
+            <th>ID</th>
+            <th>Client</th>
+            <th>PhoneNumber</th>
+            <th>Begin Effective Date</th>
+            <th>End Effective Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="trtbl1" ng-repeat="reservation in filteredReservations">
+            <td>{{ reservation.Id }}</td>
+            <td>{{ reservation.Client.Name }}</td>
+            <td>{{ reservation.PhoneNumber.Number }}</td>
+            <td>{{ reservation.BeginEffectiveDate | date:'yyyy-MM-dd HH:mm:ss' }}</td>
+            <td>{{ reservation.EndEffectiveDate ? (reservation.EndEffectiveDate |  date:'yyyy-MM-dd HH:mm:ss') : 'N/A' }}</td>
+        </tr>
+    </tbody>
+</table>

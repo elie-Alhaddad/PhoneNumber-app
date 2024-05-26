@@ -1,0 +1,288 @@
+﻿.form-group1 {
+    text-align: center;
+    padding: 25px;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    width: 500px;
+    background-color: #eee;
+    color: #333; /* Dark gray color */
+    border: 1px solid #333;
+    border-radius: 4px;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.1);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.typeName {
+    margin-right: 7px;
+    margin-left: 7px;
+    background-color: #f9f9f9;
+    color: #555;
+    border: 1px solid #333;
+    border-radius: 4px;
+    padding: 10px;
+    transition: all 0.3s ease;
+}
+
+    .typeName:focus {
+        background-color: #fff;
+        color: #333;
+        border-color: #87CEEB;
+        transform: scale(1.05);
+        box-shadow: 0 0 8px #87CEEB;
+    }
+
+        .typeName:focus::placeholder {
+            color: #999;
+        }
+
+    .typeName:hover {
+        background-color: #f5f5f5;
+    }
+
+    .typeName:focus:hover {
+        background-color: #fff;
+    }
+
+    /* Additional styling effects */
+    .typeName:focus {
+        border-radius: 8px;
+    }
+
+        .typeName:focus::before {
+            content: "";
+            position: absolute;
+            top: -3px;
+            left: -3px;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(45deg, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0) 80%);
+            pointer-events: none;
+            z-index: 2;
+        }
+
+        .typeName:focus::after {
+            content: "";
+            position: absolute;
+            bottom: -3px;
+            left: -3px;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(45deg, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0) 80%);
+            pointer-events: none;
+            z-index: 2;
+        }
+
+        .typeName:focus:not(:placeholder-shown) {
+            transform: scale(1.00) translateY(-3px);
+        }
+
+.btnt {
+    background-color: #87CEEB;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+
+}
+
+    .btnt:hover {
+        background-color: #6495ED;
+        transform: scale(1.05);
+        color: #fff;
+    }
+
+    .btnt:active {
+        background-color: #87CEEB;
+        transform: scale(0.95);
+        color: #fff;
+    }
+
+.card-table {
+    width: 70%;
+    background-color: #f9f9f9;
+    border: 1px solid #555;
+    border-radius: 4px;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+ 
+}
+
+    .card-table th,
+    .card-table td {
+        padding: 8px;
+        text-align: center;
+        border-bottom: 1px solid #ccc;
+    }
+.trtbl {
+    background-color: #ccc;
+    color: #555; /* Text color for hover */
+}
+.trtbl1:hover {
+    background-color: #eee; /* Dark gray color for hover */
+    color: #555; /* Text color for hover */
+}
+
+    .card-table th {
+        font-weight: bold;
+        border-bottom: 1px solid #555;
+    }
+
+    .card-table .btn {
+        background-color: #87CEEB;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        padding: 8px 16px;
+        transition: all 0.3s ease;
+    }
+
+        .card-table .btn:hover {
+            background-color: #6495ED;
+            transform: scale(1.05);
+            color: #ccc;
+        }
+
+        .card-table .btn:active {
+            background-color: #87CEEB;
+            transform: scale(0.95);
+            color: #fff;
+        }
+
+.modaldes {
+    background-color: #eee;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    
+    max-width: 500px;
+}
+
+    .modaldes .modal-header {
+        background-color: #ccc;
+        padding: 10px;
+        border-bottom: 1px solid #333;
+    }
+
+    .modaldes .modal-title {
+        margin: 0;
+        color:#555
+    }
+
+    .modaldes .modal-body {
+        background-color: #eee;
+        padding: 30px 0;
+    }
+
+    .modaldes .form-group2 {
+        margin-bottom: 15px;
+
+    }
+
+        .modaldes .form-group2 label {
+            
+            margin-bottom: 5px;
+        }
+
+        .modaldes .form-group2 .typeName {
+            width: 100%;
+            background-color: #f9f9f9;
+            color: #555;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 10px;
+            transition: all 0.3s ease;
+        }
+
+            .modaldes .form-group2 .typeName:focus {
+                background-color: #fff;
+                color: #333;
+                border-color: #87CEEB;
+                transform: scale(1.05);
+                box-shadow: 0 0 8px #87CEEB;
+            }
+
+                .modaldes .form-group2 .typeName:focus::placeholder {
+                    color: #999;
+                }
+
+            .modaldes .form-group2 .typeName:hover {
+                background-color: #f5f5f5;
+            }
+
+            .modaldes .form-group2 .typeName:focus:hover {
+                background-color: #fff;
+            }
+
+    .modaldes .modal-footer {
+        padding-top: 20px;
+        border-top: 0.5px solid #333;
+       
+        text-align: right;
+    }
+.btn-dark {
+    background-color: #87CEEB; /* Light blue color */
+    color: #fff; /* Text color */
+    transition: background-color 0.3s ease; /* Transition for background color */
+}
+
+    .btn-dark.clicked {
+        background-color: #FF0000; /* Red color */
+    }
+
+.btn-primary {
+    background-color: #87CEEB; /* Light blue color */
+    color: #fff; /* Text color */
+    transition: background-color 0.3s ease; /* Transition for background color */
+}
+
+    .btn-dark.primary {
+        background-color: #0026ff; /* Red color */
+    }
+
+.form-ligne label,
+.form-ligne input {
+    display: inline-block;
+    margin-right: 45px;
+    margin-bottom: 5px;
+}
+
+.form-ligne label {
+    margin-left: 50px; /* Adjust margin as needed */
+    
+}
+
+.form-ligne1 label,
+.form-ligne1 select {
+    display: inline-block;
+    
+    margin-bottom: 10px;
+}
+
+.form-ligne1 label {
+    margin-left: 50px; /* Adjust margin as needed */
+
+    
+}
+.success-message {
+
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 4px;
+    z-index: 9999;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+
+

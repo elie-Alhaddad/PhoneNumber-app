@@ -1,0 +1,43 @@
+﻿<body>
+    <div ng-app="PhoneNumberReport" ng-controller="ReportPageController">
+        <h2>Number of Clients per Type</h2>
+        <div class="container">
+            <!-- Combined filter -->
+            <div class="form-group1">
+
+                <div class="form-ligne1">
+                    <label for="deviceFilter">Device Filter:</label>
+                    <device-selector selected-device="selectedDevice" get-data="getData()"></device-selector>
+                </div>
+
+                <div class="form-ligne1">
+                    <status-filter selected-status="selectedStatus" select-status="selectStatus()"></status-filter>
+                </div>
+
+                <div class="form-ligne">
+                    <button class="btnt" ng-click="search()">Apply Filter</button>
+
+                </div>
+            </div>
+            <!-- Client table -->
+            <table class="card-table">
+                <thead>
+                    <tr class="trtbl">
+                        <th>Device</th>
+                        <th>Phone Numbers Status</th>
+                        <th># of Phone Numbers</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="phoneNumber in phoneNumbersReport">
+                        <td>{{ phoneNumber.Device }}</td>
+                        <td>{{ phoneNumber.PhoneNumbersStatus }}</td>
+                        <td>{{ phoneNumber.NumberOfPhoneNumbers }}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+        </div>
+    </div>
+</body>

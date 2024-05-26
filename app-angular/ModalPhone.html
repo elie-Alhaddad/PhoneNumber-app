@@ -1,0 +1,19 @@
+﻿<div class="modaldes">
+    <div class="modal-header">
+        <h4 class="modal-title" id="phoneNumberModalLabel">{{ modalTitle }}</h4>
+    </div>
+    <div class="modal-body">
+        <div class="form-group">
+            <label for="phoneNumberInput">Number:</label>
+            <input type="number" class="typeName" id="phoneNumberInput" ng-model="modalNumber" required>
+        </div>
+        <div class="form-group2">
+            <label for="deviceSelect">Device:</label>
+            <device-selector selected-device="modalDevice" get-data="getData()"></device-selector>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-primary" ng-click="savePhoneNumber()" ng-disabled="!modalNumber || !modalDevice">Save</button>
+        <button class="btn btn-default" ng-click="cancelModal()">Cancel</button>
+    </div>
+</div>

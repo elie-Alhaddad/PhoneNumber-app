@@ -1,0 +1,20 @@
+﻿
+<body ng-app="DeviceScript" ng-controller="DevicesController">
+    <h1>Device</h1>
+    <div class="container">
+
+        <div class="form-group1">
+            <input type="text" class="typeName" ng-model="searchText" placeholder="Search" />
+            <span ng-include="'../app-angular/SearchInput.html'"></span>
+        </div>
+        <div class="success-message"  ng-class="messageClass" ng-if="message">{{ message }}</div>
+        <!--Table Display -->
+        <div ng-include="'../app-angular/Table.html'"></div>
+        
+
+        <!--Modal Popupp -->
+
+
+    </div>
+</body>   
+

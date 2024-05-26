@@ -1,0 +1,37 @@
+﻿<table  class="card-table">
+    <thead>
+        <tr class="trtbl">
+            <th>ID</th>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Birth Date</th>
+            <th>Reserve/Unreserve</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="trtbl1" ng-repeat="client in filteredClients">
+            <td>{{ client.Id }}</td>
+            <td>{{ client.Name }}</td>
+            <td>{{ client.TypeName }}</td>
+
+            <td>
+                {{ client.BirthDate | date: 'yyyy-MM-dd' }}
+            </td>
+            <!-- Inside the ng-repeat loop for each client -->
+            <td>
+                <button ng-click="togglePhoneNumberReservation(client)">
+                    {{ client.phoneNumberReserved ? 'Unreserve' : 'Reserve' }}
+                </button>
+
+            </td>
+
+
+            <td>
+                <button class="btn btn-primary" ng-click="openModal(client)">Edit</button>
+
+            </td>
+        </tr>
+
+    </tbody>
+</table>
